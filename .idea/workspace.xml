@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="643412a8-cb7b-4595-8a7c-8f00d8d4cdcf" name="Default Changelist" comment="" />
+    <list default="true" id="643412a8-cb7b-4595-8a7c-8f00d8d4cdcf" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -11,6 +15,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1YevY5emanqf44DqCbq1pYnz0Bs" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -27,6 +32,7 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -38,21 +44,47 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1583315919501</updated>
-      <workItem from="1583315928075" duration="4737000" />
+      <workItem from="1583315928075" duration="6395000" />
+      <workItem from="1583324438963" duration="284000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
     <state x="700" y="323" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1583318476119">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="700" y="323" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1583318476119" />
+    <state x="585" y="114" key="CommitChangelistDialog2" timestamp="1583324477343">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="585" y="114" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1583324477343" />
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1583323878429">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1583323878429" />
     <state x="803" y="413" key="Github.ShareDialog" timestamp="1583322994095">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="803" y="413" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1583322994095" />
+    <state x="461" y="162" key="SettingsEditor" timestamp="1583323883746">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1583323883746" />
   </component>
 </project>
